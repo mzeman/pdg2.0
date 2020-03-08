@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "/home/mzeman/Development/pdg2.0/experiments/melonjs"
+		}
+	],
+	"remoteAuthority": "wsl+Arch",
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
